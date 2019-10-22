@@ -1,0 +1,6 @@
+[ Manager {
+    name: 'chase',
+    position: 'Manager',
+    id: 's',
+    email: 's',
+    office: 's' } ]
