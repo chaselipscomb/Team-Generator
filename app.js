@@ -142,7 +142,7 @@ function howMany() {
                     //if (err) throw err;
                     //console.log('Saved!');
                  // }
-                 generateHTML(team)
+                 console.log(team);
                  fs.appendFile('index.html', generateHTML(team), function (err) {
                     if (err) throw err;
                     console.log('Saved!');
